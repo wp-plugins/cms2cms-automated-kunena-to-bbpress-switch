@@ -34,12 +34,12 @@ class CmsPluginView
 
     public function getPluginSourceName()
     {
-        return $this->__('KUNENA', 'cms2cms-mirgation');
+        return $this->__('Kunena', 'cms2cms-mirgation');
     }
 
     public function getPluginSourceType()
     {
-        return 'KUNENA';
+        return 'Kunena';
     }
 
     public function getPluginTargetName()
