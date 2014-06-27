@@ -1,6 +1,6 @@
 ﻿=== CMS2CMS: Automated Kunena to bbPress Switch  ===
 Contributors: cms2cms
-Tags: Kunena to bbPress, Kunena to bbPress migration, convert Kunena to bbPress, migrate Kunena to bbPress, bbPress, Kunena, bbpress migration
+Tags: Kunena to bbPress, Kunena to bbPress migration, convert Kunena to bbPress, migrate Kunena to bbPress, bbPress, Kunena, bbpress migration, posts, images, plugin
 Requires at least: 3.0.0
 Tested up to: 3.9.1
 Stable tag: 3.6.2
