@@ -32,6 +32,9 @@ Note. Before running a migration, WordPress CMS and bbPress plugin should be ins
 * Install WordPress CMS
 * Activate bbPress plugin
 
+= Video =
+[youtube https://www.youtube.com/watch?v=WNk1e5Tb0rc]
+
 To get more information about website data migration from Joomla Kunena to bbPress, visit this page: http://www.cms2cms.com/supported-cms/joomla-kunena-to-bb-press-migration/
 
 == Installation ==
