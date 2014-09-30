@@ -2,7 +2,7 @@
 Contributors: cms2cms
 Tags: Kunena to bbPress, Kunena to bbPress migration, convert Kunena to bbPress, migrate Kunena to bbPress, bbPress, Kunena, bbpress migration, posts, images, plugin
 Requires at least: 3.0.0
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 3.6.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -35,7 +35,7 @@ Note. Before running a migration, WordPress CMS and bbPress plugin should be ins
 = Video =
 [youtube https://www.youtube.com/watch?v=WNk1e5Tb0rc]
 
-To get more information about website data migration from Joomla Kunena to bbPress, visit this page: http://www.cms2cms.com/supported-cms/joomla-kunena-to-bb-press-migration/
+To get more information about website data migration from Joomla Kunena to bbPress, visit this page: http://www.cms2cms.com/supported-cms/joomla-kunena-to-bb-press-migration/?utm_source=Kunena&utm_medium=Link&utm_campaign=WordPress_plugins
 
 == Installation ==
 
