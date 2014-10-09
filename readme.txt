@@ -16,7 +16,7 @@ This is a plugin for an automated migration from Joomla Kunena to bbPress forum.
 Note. Before running a migration, WordPress CMS and bbPress plugin should be installed previously. Then, when you activate Automated Kunena and bbPress Switch plugin, you’ll be redirected to CMS2CMS site to complete the forum data conversion. 
 
 * *There is Free Demo available (migration of limited number of posts, threads, etc.).*
-* *Full Migration starts from $39.*
+* *Full Migration starts from $49.*
 
 = Items That Are Migrated to bbPress: =
 * Forums/Categories
