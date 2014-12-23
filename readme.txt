@@ -35,6 +35,11 @@ Note. Before running a migration, WordPress CMS and bbPress plugin should be ins
 = Video =
 [youtube https://www.youtube.com/watch?v=WNk1e5Tb0rc]
 
+Our Support Team is available via phone, Live Chat and Email (Technical support) during the following hours:
+Phone support – 24 hours a day, Monday – Friday
+Live Chat support – 24 hours a day, Monday – Friday
+Technical support – from 11 am to 7 pm GMT +2, Monday – Friday
+
 To get more information about website data migration from Joomla Kunena to bbPress, visit this page: http://www.cms2cms.com/supported-cms/joomla-kunena-to-bb-press-migration/?utm_source=Kunena&utm_medium=Link&utm_campaign=WordPress_plugins
 
 == Installation ==
